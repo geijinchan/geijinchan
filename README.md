@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Frontend Web Developer skilled in React, Redux, React Native, Node, Firebase and focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Data Scientist skilled in Machine Learning, Deep Learning, Generative AI, and Statistics, with a focus on applying these techniques to various projects. My work is documented on GitHub, showcasing my ability to implement efficient and innovative data-driven solutions.</i>
 </h3>
 
 
